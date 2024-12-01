@@ -12,5 +12,5 @@
 - [Calculadora JavaScript](#)  
 
 ### 🌐 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](hhttps://www.linkedin.com/in/r-neri-aa674533b/)  
-[![E-mail](https://img.shields.io/badge/-E--mail-red)](mailto:rneriix@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/r-neri-aa674533b/)  
+[![E-mail](https://img.shields.io/badge/-E--mail-red)](emailto:rneriix@gmail.com)
