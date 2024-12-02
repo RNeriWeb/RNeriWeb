@@ -10,7 +10,9 @@ Aqui estão alguns projetos que desenvolvi para estudar e mostrar minhas habilid
 
 ### 🚀 Projetos
 - [Portfólio Web](https://neridev.com/)  
-- [Calculadora JavaScript](#)  
+- [To-Do List] [Link para o repositório](https://github.com/usuario/projeto2)  
+- [Loja Virtual] [Link para o repositório](https://github.com/usuario/projeto3)  
+
 
 ### 🌐 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/r-neri-aa674533b/)  
