@@ -1,11 +1,12 @@
-# 👋 Olá, eu sou [Neri]!
-💻 **Front-End Developer**  
-🎯 Buscando transformar ideias em soluções digitais.  
+# Olá! Eu sou a Neri 👩‍💻  
 
-### 🌟 Habilidades
-- **Linguagens:** HTML, CSS, JavaScript  
-- **Ferramentas:** Git, VS Code, Figma  
-- **Interesses:** Desenvolvimento Front-End e Design Responsivo  
+Sou desenvolvedora Full Stack Júnior, apaixonada por tecnologia e por criar soluções eficientes.  
+### Tecnologias que uso:  
+- Front-End: HTML, CSS, JavaScript, React  
+- Back-End: Node.js, MySQL, MongoDB  
+
+Aqui estão alguns projetos que desenvolvi para estudar e mostrar minhas habilidades!  
+
 
 ### 🚀 Projetos
 - [Portfólio Web](https://neridev.com/)  
